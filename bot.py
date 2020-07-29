@@ -40,7 +40,7 @@ def login():
     if "OK" in d.text:
         print ("\033[1;97m[\033[1;92m+\033[1;97m]YourId:\033[1,92m",g["data"]["uid"],"\n\033[1;97m[\033[1;92m+\033[1;97m]Yourcoin:\033[1;92m",g["data"]["total_coin"],"\n\033[1;97m[\033[1;92m\033[1;97m]YourMoney:\033[1;92m",g["data"]["total_money"])
     else:
-        print("Login Failed")
+        sys.exit("\033[1;97m[\033[1;91m!\033[1;97m]Login Failed\033[1;91m!")
 def daili():
     login()
     bb={
