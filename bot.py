@@ -5,9 +5,8 @@ os.system("clear")
 print ("""
 \033[1;97m        BOT CAPING
        \033[90m __________
-\033[1;97mcreator: \033[1;96mfahmiapz
-\033[1;97myoutube: \033[1;96mApmzchannel
-\033[1;97mgithub : \033[4;92mgithub.com/BangDanz\033[00m
+\033[1;97mCreator: \033[1;96mKnifer12
+\033[1;97mGithub : \033[4;92mgithub.com/BladeKnife\033[00m
 \033[90m_____________________________""")
 ff=input("\033[1;97m[\033[1;96m•\033[1;97m]UserAgent: \033[1;92m")
 xx=input("\033[1;97m[\033[1;96m•\033[1;97m]Cookie: \033[1;92m")
